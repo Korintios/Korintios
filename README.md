@@ -7,10 +7,10 @@
 - 📫 Si nesecitas alguna explicacion o consejo cuentas conmigo :)
 
 # Back-End.
-- Python
-- Java
-- JavaScript
-- PHP
+- 🎞️ Python
+- 🪡 Java
+- 🧶 JavaScript
+- 🪢 PHP
 
 # Front-End.
 - HTML5

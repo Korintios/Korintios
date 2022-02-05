@@ -9,6 +9,7 @@
 # Back-End.
 - Python
 - Java
+- JavaScript
 - PHP
 
 # Front-End.

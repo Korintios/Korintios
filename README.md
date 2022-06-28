@@ -1,5 +1,6 @@
-<img height="350" src="https://media.giphy.com/media/40PozOxs6I3RHciNTg/giphy.gif"/>
-<h1 align="left">Hola👋 Soy Juan Bienvenido a mi Perfil de Github 🤙</h1>
+<div align="center"><img height="250" src="https://media.giphy.com/media/IULyaTDwEnmAhkVXU4/giphy.gif"/></div>
+<h1 align="center">Hola👋 Soy Juan Bienvenido a mi Perfil de Github 🤙</h1>
+<hr>
 <img align="right" height="150" src="https://media.giphy.com/media/12KDixncjK6l7G/giphy.gif"/>
 
 # 💻 Aprendizaje:

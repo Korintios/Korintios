@@ -23,8 +23,11 @@
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📄 Certificados
-<a href="https://www.credly.com/badges/c403084c-6851-4396-ac4e-231b8a5d9a9f/public_url" target="_blank"><img width="304" height="304" alt="front-end-developer-professional-certificate-v-1" src="https://github.com/user-attachments/assets/ff8567c6-3fb3-474c-91e1-48d49581fe98" /></a>
+## 📄 Certificados e Insignias
+<a href="https://www.coursera.org/user/f4be244f90842e2e4e095a0d910ff2fe"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"/></a>
+<div align="left">
+  <a href="https://www.credly.com/badges/c403084c-6851-4396-ac4e-231b8a5d9a9f/public_url" target="_blank"><img width="300" height="300" alt="front-end-developer-professional-certificate-v-1" src="https://github.com/user-attachments/assets/ff8567c6-3fb3-474c-91e1-48d49581fe98" /></a>
+</div>
 
 ## 📊 Estadisticas:
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=korintios&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  

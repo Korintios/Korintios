@@ -24,7 +24,7 @@
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📄 Certificados
-<a href="https://www.credly.com/badges/c403084c-6851-4396-ac4e-231b8a5d9a9f/public_url"><img width="304" height="304" alt="front-end-developer-professional-certificate-v-1" src="https://github.com/user-attachments/assets/ff8567c6-3fb3-474c-91e1-48d49581fe98" /></a>
+<a href="https://www.credly.com/badges/c403084c-6851-4396-ac4e-231b8a5d9a9f/public_url" target="_blank"><img width="304" height="304" alt="front-end-developer-professional-certificate-v-1" src="https://github.com/user-attachments/assets/ff8567c6-3fb3-474c-91e1-48d49581fe98" /></a>
 
 ## 📊 Estadisticas:
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=korintios&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  

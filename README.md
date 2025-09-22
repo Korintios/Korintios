@@ -22,9 +22,12 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## 📄 Certificados
+<a href="https://www.credly.com/badges/c403084c-6851-4396-ac4e-231b8a5d9a9f/public_url"><img width="304" height="304" alt="front-end-developer-professional-certificate-v-1" src="https://github.com/user-attachments/assets/ff8567c6-3fb3-474c-91e1-48d49581fe98" /></a>
+
 ## 📊 Estadisticas:
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=korintios&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 
 <div align="right">
   <h2>🕹️ Gaming</h2>
@@ -32,6 +35,7 @@
   <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>
   <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"/>
 </div>
+
 
 
 

@@ -1,7 +1,8 @@
 <div align="center"><img src="Large.gif"/></div>
 <h1 align="center">Hola👋 Soy Juan Bienvenido a mi Perfil de Github 🤙</h1>
-<div align="center"><a href="https://twitter.com/El_Juankixx"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></div>
-<img align="right" height="150" src="https://media.giphy.com/media/12KDixncjK6l7G/giphy.gif"/>
+
+<div align="center"><a href="https://www.codewars.com/users/Korintios"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/></div>
+<!-- <img align="right" height="150" src="https://media.giphy.com/media/12KDixncjK6l7G/giphy.gif"/> -->
 
 ## 🛠 &nbsp;Tecnologías
 
